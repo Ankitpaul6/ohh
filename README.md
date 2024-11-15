@@ -12,3 +12,6 @@ npm install
 4> run the server 
 
 npm run dev
+
+inst for tailwind 
+tailwind css install one
